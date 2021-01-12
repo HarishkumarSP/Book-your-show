@@ -1,4 +1,1 @@
-# Book-your-show
-
-This project is all about simple booking system for your favourite movies ticket in online by registering and getting log in into the booking system for booking your tickets.
-This is Java based project with MySQL Database.
+This project is all about a simple booking system for your favorite movies ticket online by registering and getting a login into the booking system for booking your tickets. This is a Java-based project with MySQL Database.
